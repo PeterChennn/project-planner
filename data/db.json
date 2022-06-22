@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "id": 2,
+      "title": "Make marketing email",
+      "details": "done before 6/30",
+      "complete": true
+    },
+    {
+      "title": "Build a website",
+      "details": "shopping-cart...",
+      "complete": false,
+      "id": 3
+    },
+    {
+      "title": "Study Economic",
+      "details": "study hard, play hard",
+      "complete": true,
+      "id": 4
+    }
+  ]
+}
